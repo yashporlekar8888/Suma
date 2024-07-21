@@ -1,0 +1,13 @@
+.navbar {
+    background: linear-gradient(135deg, #00f, #f0f);
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.3), 0 4px 8px rgba(255, 0, 255, 0.3);
+
+}
+
+/* .container {
+    background: linear-gradient(135deg, #00f, #f0f);
+    padding: 1rem;
+    box-shadow: 0 4px 8px rgba(145, 187, 226, 0.3), 0 4px 8px rgba(221, 129, 221, 0.3);
+
+} */
